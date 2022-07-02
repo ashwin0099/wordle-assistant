@@ -2,7 +2,7 @@
 
 this wordle assitant is made based on information theory
 
-the result is we have grat accuray
+the result is we have great accuray
 ![Screenshot 2022-06-27 110617](https://user-images.githubusercontent.com/57886770/175871108-22eb4a11-d180-41e3-b64f-5270d17ab08e.png)
 
 
